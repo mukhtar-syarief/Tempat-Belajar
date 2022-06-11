@@ -1,0 +1,24 @@
+Penerapan OOP
+
+Inheritance
+
+
+
+
+
+Encapsulation
+
+
+
+
+
+Polymorphism
+
+
+
+
+
+Abstraction
+
+
+
